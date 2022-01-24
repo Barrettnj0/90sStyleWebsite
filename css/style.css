@@ -1,0 +1,41 @@
+body{
+    background-color: #302cff;
+    color: #000000;
+    background-image: url(../images/slinkey.gif);
+
+    font-size: 18px;
+    font-weight: normal;
+
+    line-height: 1.6em;
+    margin: 0;
+}
+
+a{
+    color: #00e1ff;
+}
+
+header{
+    color: #00e1ff;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    color: #00e1ff;
+    text-align: center;
+}
+
+#welcome{
+    text-align: center;
+    color: #00e1ff;
+}
+
+.column{
+    width: 25%;
+    float: left;
+    color: #00e1ff;
+    padding: 25px;
+    box-sizing: border-box;
+}

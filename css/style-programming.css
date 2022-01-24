@@ -1,0 +1,84 @@
+body{
+    background-color: #302cff;
+    color: #e6e224;
+
+    font-size: 18px;
+    font-weight: normal;
+
+    line-height: 1.6em;
+    margin: 0;
+}
+
+a{
+    color: #e6e224;
+}
+
+header{
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+#welcome{
+    text-align: center;
+}
+
+.left{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 3px solid black;
+    height: 350px;
+}
+
+.right{
+    float: right;
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 3px solid black;
+    height: 350px;
+}
+
+#lua{
+    background-image: url(../images/luaLogo.png);
+    background-size: 370px;
+}
+
+#javascript{
+    background-image: url(../images/javascriptLogo.png);
+    background-size: 370px;
+    color: rgb(22, 107, 107);
+}
+
+#r{
+    background-image: url(../images/RLogo.jpg);
+    background-size: 400px;
+    color: black;
+}
+
+#cpp{
+    background-image: url(../images/cplusplusLogo.png);
+    background-size: 370px;
+    color: black;
+}
+
+#cpp{
+    background-image: url(../images/cplusplusLogo.png);
+    background-size: 370px;
+    color: black;
+}
+
+#java{
+    background-image: url(../images/javaLogo.png);
+    background-size: 500px;
+    width: 100%;
+}

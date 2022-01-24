@@ -1,0 +1,38 @@
+body{
+    background-color: #ffc72c;
+    color: #860000;
+    background-image: url(../images/music.png);
+    background-size: 150px;
+
+    font-size: 18px;
+    font-weight: normal;
+
+    line-height: 1.6em;
+    margin: 0;
+}
+
+a{
+    color: #3cffc5;
+}
+
+header{
+    color: #3cffc5;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#welcome{
+    text-align: center;
+    color: #3cffc5;
+    background-color: black;
+    width: 80%;
+    margin: auto;
+}
+
+.image{
+    float: left;
+    padding-left: 60px;
+}
